@@ -2,7 +2,7 @@
 
 This project is a hands-on exploration of a sophisticated embedded system, allowing you to program a Tello drone using C++. 
 
-##Installation
+## Installation
 
 To get started, follow these steps:
 
