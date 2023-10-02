@@ -12,6 +12,12 @@ To get started, follow these steps:
 
 For detailed usage instructions and code samples, please refer to https://www.ryzerobotics.com/tello.
 
+## Requirements 
+
+- Tello Drone
+- Compatible mobile device
+- Libary: "ctello.h"
+
 ## Features
 
 - **Takeoff**: Launch the Tello drone.
